@@ -1,0 +1,18 @@
+.navbar-nav a{
+    font-size: 18px;
+}
+.wrapper{
+    width: 100%;
+    display:grid;
+    grid-template-columns: 200px 200px 200px 200px;
+    column-gap: 70px;
+ row-gap: 1rem;
+}
+.col-3 {
+    display: flex;
+    width: 100%;
+}
+
+@media (max-width:400px){
+    
+}
